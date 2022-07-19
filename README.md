@@ -19,3 +19,9 @@ Another use is if you use third party graphical assets, they can then be convert
 To use this, you have to replace the strings inside Main.java to match your folders, images & palettes. Furthermore to change from testing output, you have to uncomment the function in the main loop.\
 Palettes can be downloaded in .txt from https://www.pixilart.com \
 Palettes could work from other sites, but if they aren't comma delimited files with hex colors, they might not work without adjusting the code.
+
+# Examples
+Before:\
+![Alt text](./terraria.png "Terraria")\
+After:\
+![Alt text](./terraria_truffles_color_palette.png "Terraria w/ Truffles")\
