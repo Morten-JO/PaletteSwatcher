@@ -24,4 +24,4 @@ Palettes could work from other sites, but if they aren't comma delimited files w
 Before:\
 ![Alt text](./terraria.png "Terraria")\
 After:\
-![Alt text](./terraria_truffles_color_palette.png "Terraria w/ Truffles")\
+![Alt text](./terraria_truffles_color_palette.png "Terraria w/ Truffles")
