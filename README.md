@@ -24,4 +24,5 @@ Palettes could work from other sites, but if they aren't comma delimited files w
 Before:\
 ![Alt text](./terraria.png "Terraria")\
 After:\
-![Alt text](./terraria_truffles_color_palette.png "Terraria w/ Truffles")
+![Alt text](./terraria_truffles_color_palette.png "Terraria w/ Truffles")\
+Disclaimer: Image used is a postproduction image, meaning after shading, lightning & filters, so the final product would look better than this, as these would not an causing distortions(the ground for example).
